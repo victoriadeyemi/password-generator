@@ -18,5 +18,5 @@ Creating a codebase for users top generate passwords.
     -Created a loop to generate password based on user's preferences from the character options.
 
     Link to the deployed repository - https://victoriadeyemi.github.io/password-generator/
-    Screenshots of deployed repository:
-    
+    ![Screenshots of deployed repository](password-generator-challenge-deployed.1.png) 
+    ![Screenshots of deployed repository](password-generator-challenge-deployed.2.png)
