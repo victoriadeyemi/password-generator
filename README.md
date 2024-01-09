@@ -17,3 +17,6 @@ Creating a codebase for users top generate passwords.
     -Created a function for getting a random element from an array referencing the arrays provided in the challenge starter assets.
     -Created a loop to generate password based on user's preferences from the character options.
 
+    Link to the deployed repository - https://victoriadeyemi.github.io/password-generator/
+    Screenshots of deployed repository:
+    
